@@ -1,7 +1,10 @@
 <img width="859" height="492" alt="PREFECTURE" src="https://github.com/user-attachments/assets/90aeb4af-0bdf-4f76-a806-eb9c70af8fce" />
 
 # **PREFECTURE-ANALYSIS**
-This dashboard provides a comprehensive analysis of key metrics across Japan’s prefectures,  highlighting disparities in life expectancy, salaries, population, and other socioeconomic indicators.
+The dashboard highlights strong regional disparities in both infrastructure and income:
+Urban regions (Tokyo, Kanagawa, Osaka) show concentration in education and professional workforce (physicians and universities).
+Rural prefectures (Kochi, Shimane, Tokushima) lead in public hospital counts and ambulance presence, reflecting investment in community healthcare.
+This contrast suggests urban centers prioritize higher education and income, while rural areas emphasize healthcare accessibility and essential services.
 
 ## **OVERVIEW**
 This dashboard provides a comparative analysis of Japan’s prefectures across key public infrastructure and socioeconomic indicators.
@@ -42,15 +45,6 @@ Wakayama (2.9k)
 Yamagata (2.9k)
 
 Income levels are generally higher in mid-sized prefectures with balanced industry and education growth.
-
-### **Interpretation**
-The dashboard highlights strong regional disparities in both infrastructure and income:
-
-Urban regions (Tokyo, Kanagawa, Osaka) show concentration in education and professional workforce (physicians and universities).
-
-Rural prefectures (Kochi, Shimane, Tokushima) lead in public hospital counts and ambulance presence, reflecting investment in community healthcare.
-
-This contrast suggests urban centers prioritize higher education and income, while rural areas emphasize healthcare accessibility and essential services.
 
 ### **Recommendations**
 Redistribute Healthcare Resources:
