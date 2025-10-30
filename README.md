@@ -12,9 +12,9 @@ It visualizes healthcare distribution, education expenses, public resources, and
 
 ### **Key Performance Metrics**
 **Metric	Value	Description**
-	49	Total number of public hospitals across all prefectures
-	¥21.30	Average education spending per capita
-  805	Number of registered public parks
+	49	Total number of public hospitals across all prefectures, 
+	¥21.30	Average education spending per capita, 
+  805	Number of registered public parks, 
   12,288	Total number of practicing physicians nationwide
 ### **Key Insights**
 **Healthcare Infrastructure**
