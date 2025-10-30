@@ -10,6 +10,9 @@ This contrast suggests urban centers prioritize higher education and income, whi
 This dashboard provides a comparative analysis of Japan’s prefectures across key public infrastructure and socioeconomic indicators.
 It visualizes healthcare distribution, education expenses, public resources, and income levels to highlight regional disparities and development patterns.
 
+### **TOOL**
+Power BI, Power query
+
 ### **Key Performance Metrics**
 **Metric	Value	Description**
 	49	Total number of public hospitals across all prefectures, 
