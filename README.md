@@ -6,7 +6,7 @@ Urban regions (Tokyo, Kanagawa, Osaka) show concentration in education and profe
 Rural prefectures (Kochi, Shimane, Tokushima) lead in public hospital counts and ambulance presence, reflecting investment in community healthcare.
 This contrast suggests urban centers prioritize higher education and income, while rural areas emphasize healthcare accessibility and essential services.
 
-## **OVERVIEW**
+### **OVERVIEW**
 This dashboard provides a comparative analysis of Japan’s prefectures across key public infrastructure and socioeconomic indicators.
 It visualizes healthcare distribution, education expenses, public resources, and income levels to highlight regional disparities and development patterns.
 
